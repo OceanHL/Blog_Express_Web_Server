@@ -1,6 +1,6 @@
 {
     "apps": {
-        "name": "blog-NodeJS",
+        "name": "blog-Express",
         "script": "dist/bin/www.js",
         "watch": true,
         "ignore_watch": ["node_modules", "logs"],

@@ -212,3 +212,11 @@
   database: 'myblog'
 }
 2021-10-09 09:13:39: Express Web Server is running on http://localhost:3000
+2021-10-09 09:14:34: MYSQL_CONFIG {
+  host: 'localhost',
+  user: 'root',
+  password: 'a12345',
+  port: 3306,
+  database: 'myblog'
+}
+2021-10-09 09:14:34: Express Web Server is running on http://localhost:3000
